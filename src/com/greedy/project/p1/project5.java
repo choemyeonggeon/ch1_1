@@ -3,7 +3,7 @@ package com.greedy.project.p1;
 public class project5 {
 
 	public static void main(String[] args) {
-		int a = 10000;
+		int a = 10000;		//a
 		int b = 3000;
 		int c = a-b;
 		
