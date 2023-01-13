@@ -16,7 +16,7 @@ public class Application1 {
 		int salary = 1000000;
 		int bonus = 200000;
 		
-		System.out.println("보너스를 포함한 급여 :" +(salary+bonus)+"원");
+		System.out.println("보너스를 포함한 급여 :" + (salary+bonus) + "원");
 		
 		System.out.println("=========== 변수에 저장한 값 재사용 테스트 ===========");
 		
@@ -50,7 +50,7 @@ public class Application1 {
 		sum = sum + 10;
 		System.out.println("sum에 10을 더하면 현재 sum의 값은? " + sum);
 		
-		sum = sum+10;
+		sum = sum + 10;
 		System.out.println("sum에 10을 더하면 현재 sum의 값은? " + sum);
 		
 		sum += 10;

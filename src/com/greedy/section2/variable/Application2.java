@@ -57,13 +57,13 @@ public class Application2 {
 		ch2 = 97;
 		
 		isTrue = true;
-		isTrue= false;
+		isTrue = false;
 		
 		str = "안녕하세요";
 		
 		//선언과 동시에 초기화
 		int point =100;
-		int bonus= 10;
+		int bonus = 10;
 		
 		//3. 변수 사용
 		System.out.println("=========== 변수에 저장된 값 출력 ===========");
